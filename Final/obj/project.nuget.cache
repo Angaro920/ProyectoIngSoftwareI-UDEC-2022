@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdAUkOb+umeSlPhXGEAYxCLRt+Sq1MOv5LIAvPUq8lQPgUsy8PH02VYRW6XgeyfeYnh2E8ycQ/lQXH8LKco9fw==",
+  "success": true,
+  "projectFilePath": "C:\\University\\5to Semestre\\IngDeSoftwareI\\Proyecto\\Final\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angaro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
